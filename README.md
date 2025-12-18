@@ -16,11 +16,11 @@ I'm a **Software Engineer** with over 6 years of experience, specializing in Jav
 
 ### Current Interests
 
-*   Game Development (exploring Godot Engine)
+*   Fintech and banking systems
 *   Cloud-native architectures
 *   Performance optimization
-*   Fintech and banking systems
 *   Developer tooling and workflows
+*   Game Development (exploring Godot Engine)
 
 ---
 
