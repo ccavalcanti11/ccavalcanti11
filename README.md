@@ -27,7 +27,7 @@ I'm a **Software Engineer** with over 6 years of experience, specializing in Jav
 ### Let's Connect
 
 *   [GitHub](https://github.com/ccavalcanti11)
-*   [LinkedIn](www.linkedin.com/in/carlos-gustavo-cavalcanti)
+*   [LinkedIn](https://www.linkedin.com/in/carlos-gustavo-cavalcanti)
 
 ---
 
