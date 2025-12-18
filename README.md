@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there! 👋 I'm Carlos.
 
-<!--
-**ccavalcanti11/ccavalcanti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with over 6 years of experience, specializing in Java Backend development. I'm passionate about continuously discovering and learning new technologies, always eager to explore innovative approaches in software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+*   **Backend:** Java, Spring Boot, Reactive Java
+*   **Frontend:** React, Angular
+*   **Banking & Fintech:** Fineract, Banking Applications
+*   **Tools & Platforms:** Git, VSCode, Linux
+*   **Concepts:** Microservices, RESTful APIs
+
+---
+
+### 🌱 Current Interests
+
+*   ☁️ Cloud-native architectures
+*   🚀 Performance optimization
+*   💰 Fintech and banking systems
+*   🛠️ Developer tooling and workflows
+*   🎮 Game Development (exploring Godot Engine)
+
+---
+
+### 🤝 Let's Connect
+
+*   [GitHub](https://github.com/ccavalcanti11)
+*   [LinkedIn](www.linkedin.com/in/carlos-gustavo-cavalcanti)
+
+---
+
+"The only way to do great work is to love what you do."
